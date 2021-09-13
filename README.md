@@ -1,7 +1,7 @@
 # api-oukee
 api for programmers
 - api login Oukee
-- api change Oukee
+- api change user Oukee
 - api follow Oukee
 - api like Oukee
 - api report Oukee
