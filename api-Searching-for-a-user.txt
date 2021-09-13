@@ -6,7 +6,7 @@ Content-Type: text/json
 User-Agent: OuKee/1.1.92 (cz.pixelmate.ouukee; build:92; iOS 13.5.0) Alamofire/5.2.2
 X-Api-Key: ouukee
 Accept-Language: en
-Authorization: Bearer 1147470|GPwcgffxjzoy0MiSUy1KVeW71IHc9l9EWe3Ud1jr
+Authorization: Bearer {TOKEN_account}
 Accept-Encoding: gzip, deflate
 
 Url = https://api.ouukee.cz/api/v1/users?username=joker
