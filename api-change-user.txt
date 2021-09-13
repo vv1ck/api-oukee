@@ -11,4 +11,4 @@ Connection: close
 
 Url = https://api.ouukee.cz/api/v1/me
 
-Data = {"email":"uhyefcnlboe@yahoo.com","username":"@iowjdnshsiwh"}
+Data = {"email":"your email@eml.com","username":"@new user"}
