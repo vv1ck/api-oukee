@@ -8,6 +8,7 @@ User-Agent: OuKee/1.1.92 (cz.pixelmate.ouukee; build:92; iOS 13.5.0) Alamofire/5
 X-Api-Key: ouukee
 Accept-Language: en
 Content-Length: 0
-Authorization: Bearer 1147190|g1dJYIsb7S2dzh9vKQUg1JLXa2SeYxKHn6t2wEiR
+Authorization: Bearer {TOKEN_account}
+
 
 Url = https://api.ouukee.cz/api/v1/users/{userID}/follow
