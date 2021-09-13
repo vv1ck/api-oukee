@@ -1,0 +1,11 @@
+Host: api.ouukee.cz
+Accept: application/json
+Content-Type: text/json
+Accept-Encoding: gzip, deflate
+User-Agent: OuKee/1.1.92 (cz.pixelmate.ouukee; build:92; iOS 13.5.0) Alamofire/5.2.2
+X-Api-Key: ouukee
+Accept-Language: en
+Content-Length: 0
+Authorization: Bearer 1147470|GPwcgffxjzoy0MiSUy1KVeW71IHc9l9EWe3Ud1jr
+
+Url = https://api.ouukee.cz/api/v1/challenges/{Id}/like
