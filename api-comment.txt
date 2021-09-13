@@ -1,0 +1,15 @@
+# POST <<>>
+
+Host: api.ouukee.cz
+Accept: application/json
+Content-Type: text/json
+Accept-Encoding: gzip, deflate
+User-Agent: OuKee/1.1.92 (cz.pixelmate.ouukee; build:92; iOS 13.5.0) Alamofire/5.2.2
+X-Api-Key: ouukee
+Accept-Language: en
+Content-Length: 16
+Authorization: Bearer {TOKEN_account}
+
+Url = https://api.ouukee.cz/api/v1/challenges/{ID video}/comment
+
+Data = {"comment":"Hi joker"}
